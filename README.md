@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Simple CRUD with and without REDUX only to create an example.
 
 ## Available Scripts
 
